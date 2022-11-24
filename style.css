@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+img{
+    height: 150px;
+    width: 350px;
+}
+b{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: blueviolet;
+    margin-top: 10px;
+}
+ #imageId
+{ 
+margin: 0; 
+padding: 0;
+list-style-type: none;
+}
+#imageId div
+{ 
+    margin: 0 4px 4px 4px;
+    padding: 0.4em;             
+    display: inline-block;
+}
+.ImgList 
+{
+    border: 2px solid #121312; 
+    width: 350px;     
+}
+.imagecollection{ 
+    height: 10px;
+}
